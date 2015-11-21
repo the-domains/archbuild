@@ -1,0 +1,14 @@
+layout_spectrum: 0.9285714
+typography_spectrum: 0.7211834
+color:
+  saturation: 0.5547798
+  brandStrength: 0.3152524
+  lightness: 0.8469387
+  brandColors:
+    - '#B4B4AC'
+    - '#170B05'
+    - '#DFE8E8'
+    - '#6E6D66'
+    - '#92E080'
+  rhythmicContrast: 0.3700322
+name: ArchBuild
