@@ -1,14 +1,26 @@
-layout_spectrum: 0.9285714
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 typography_spectrum: 0.7211834
 color:
   saturation: 0.5547798
   brandStrength: 0.3152524
   lightness: 0.8469387
   brandColors:
-    - '#B4B4AC'
-    - '#170B05'
-    - '#DFE8E8'
-    - '#6E6D66'
-    - '#92E080'
+    - '#0D0B0D'
+    - '#F4FFFC'
+    - '#5DA3D7'
+    - '#A3A292'
+    - '#BEFF9B'
   rhythmicContrast: 0.3700322
+layout_spectrum: 0.9285714
 name: ArchBuild
