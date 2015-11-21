@@ -4,23 +4,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
+typography_spectrum: 0.5
 color:
   saturation: 0.2422127
   brandStrength: 0.3152524
   lightness: 0.1390978
   brandColors:
-    - '#0D0B0D'
-    - '#F4FFFC'
-    - '#5DA3D7'
-    - '#A3A292'
-    - '#BEFF9B'
+    - '#B4B4B5'
+    - '#0C040C'
+    - '#6E655C'
+    - '#393732'
+    - '#E89A30'
   rhythmicContrast: 0.3700322
-typography_spectrum: 0
 layout_spectrum: 0.9285714
 name: ArchBuild
