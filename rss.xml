@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[ArchBuild]]></title>
         <description><![CDATA[ArchBuild]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/archbuild/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 21 Nov 2015 18:02:26 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 21 Nov 2015 18:10:01 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/archbuild/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Architecture Design your first step of concept to second of brief :) wish you happy experience :)</p>]]></description>
-            <link>undefined0b18178a-42d6-410b-9616-48040217b2d6/index.html</link>
+            <link>https://thegrid.ai/archbuild/0b18178a-42d6-410b-9616-48040217b2d6/index.html</link>
             <guid isPermaLink="false">0b18178a-42d6-410b-9616-48040217b2d6</guid>
-            <pubDate>Sat, 21 Nov 2015 18:02:03 GMT</pubDate>
+            <pubDate>Sat, 21 Nov 2015 18:10:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
