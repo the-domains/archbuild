@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Artisan work and attention to detail mesmerise the final quality of work
-datePublished: '2015-11-23T18:21:11.407Z'
-dateModified: '2015-11-23T18:20:29.638Z'
+datePublished: '2015-11-23T18:35:16.424Z'
+dateModified: '2015-11-23T18:35:13.690Z'
 title: Architecture and flow of Design
 author: []
 authors: []
