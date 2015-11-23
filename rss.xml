@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[ArchBuild]]></title>
+        <description><![CDATA[ArchBuild]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 23 Nov 2015 18:42:37 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Design ideas ]]></title>
+            <description><![CDATA[<article><h1>Design ideas </h1><p>Design ideas</p></article>]]></description>
+            <link>undefineddesign-ideas/index.html</link>
+            <guid isPermaLink="false">fdfa0d31-68fe-431f-bfb8-f84ce18cd0db</guid>
+            <pubDate>Mon, 23 Nov 2015 18:42:36 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
