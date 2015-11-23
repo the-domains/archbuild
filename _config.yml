@@ -1,14 +1,7 @@
-color:
-  saturation: 0.2422127
-  brandStrength: 0.3152524
-  rhythmicContrast: 0.3700322
-  brandColors:
-    - '#B4B4B5'
-    - '#0C040C'
-    - '#6E655C'
-    - '#393732'
-    - '#E89A30'
-  lightness: 0.1390978
+name: ArchBuild
+favicon: null
+layout_spectrum: 0.9285714
+typography_spectrum: 0.5
 collections:
   - index:
       path: /
@@ -21,6 +14,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-layout_spectrum: 0.9285714
-typography_spectrum: 0.5
-name: ArchBuild
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B4B4B5'
+    - '#0C040C'
+    - '#6E655C'
+    - '#393732'
+    - '#E89A30'
+  brandStrength: 0.25
+  lightness: 0.1390978
+  saturation: 0.2422127
+  rhythmicContrast: 0.3700322
+purpose: []
