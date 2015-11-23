@@ -4,7 +4,7 @@
         <description><![CDATA[ArchBuild]]></description>
         <link>https://thegrid.ai/archbuild/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 23 Nov 2015 18:43:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Nov 2015 23:00:44 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/archbuild/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Design ideas ]]></title>
@@ -12,15 +12,6 @@
             <link>https://thegrid.ai/archbuild/design-ideas/index.html</link>
             <guid isPermaLink="false">fdfa0d31-68fe-431f-bfb8-f84ce18cd0db</guid>
             <pubDate>Mon, 23 Nov 2015 18:42:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[http://www.cagetoday.com/wp-content/uploads/2008/08/joe-daddy-stevenson-at-ufc-80-468x351.jpg]]></title>
-            <description><![CDATA[<article><h1>http://www.cagetoday.com/wp-content/uploads/2008/08/joe-daddy-stevenson-at-ufc-80-468x351.jpg</h1><p>Post details
-TitleDescription
-Publish item to:HomepagePageNavigation</p></article>]]></description>
-            <link>https://thegrid.ai/archbuild/httpwwwcagetodaycomwp-contentuploads200808joe-dadd/index.html</link>
-            <guid isPermaLink="false">c5919d8b-d02b-4d9f-a903-6ffe5a5ceac4</guid>
-            <pubDate>Mon, 23 Nov 2015 18:42:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
