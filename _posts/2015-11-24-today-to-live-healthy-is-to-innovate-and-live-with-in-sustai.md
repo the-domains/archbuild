@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2015-11-24T18:04:43.254Z'
-dateModified: '2015-11-24T18:03:03.509Z'
+datePublished: '2015-11-24T18:05:53.541Z'
+dateModified: '2015-11-24T18:04:43.254Z'
 title: Today to live healthy is to Innovate and live with in sustainable environment and design
 author: []
 authors: []
