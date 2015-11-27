@@ -1,12 +1,12 @@
 ---
 description: Engineering and exposing the best of your environment
 author: []
-datePublished: '2015-11-27T13:22:47.709Z'
+datePublished: '2015-11-27T13:22:59.957Z'
 publisher:
   domain: ''
   name: ''
 title: 'Engineering and exposing the best of your environment '
-dateModified: '2015-11-27T13:22:33.936Z'
+dateModified: '2015-11-27T13:22:47.709Z'
 sourcePath: _posts/2015-11-27-engineering-and-exposing-the-best-of-your-environment.md
 published: true
 inFeed: true
